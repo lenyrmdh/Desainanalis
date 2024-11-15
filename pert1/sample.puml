@@ -1,0 +1,17 @@
+@startuml HitungLuasSegitiga
+title Menghitung Luas Persegi Panjang
+
+(*)-right-> "Masukan Nilai P"
+if "bukan angka" then
+    --> [true] "Masukan Angka"
+endif
+    -right-> "Masukan Angka L"
+if "bukan angka" then   
+    --> [true] "Masukan Angka"
+endif
+    -right-> "Luas = P X L"
+note bottom
+ Rumus Menghitung LUas Persegi Panjang
+end note
+    -right-> "Tampilkan Hasil Luas"
+@enduml
