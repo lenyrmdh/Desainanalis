@@ -1,0 +1,47 @@
+@startuml
+actor "Penjual (Admin)" as Admin
+actor "Pembeli" as Pembeli
+
+usecase "Input Email dan Password" as UC10
+usecase "Cek Kredensial" as UC11
+usecase "Login Gagal" as UC12
+usecase "Login Penjual (Admin)" as UC1
+usecase "Login Pembeli" as UC2
+usecase "Kelola Produk" as UC3
+usecase "Tambah Produk" as UC4
+usecase "Edit Produk" as UC5
+usecase "Hapus Produk" as UC6
+usecase "Pencatatan Pesanan" as UC7
+usecase "Catat Pesanan" as UC8
+usecase "Proses Pembayaran" as UC9
+usecase "Melihat Produk" as UC13
+usecase "Memesan Produk" as UC14
+usecase "Konfirmasi Pesanan" as UC15
+usecase "Logout" as UC16
+usecase "Update Stok" as UC17
+
+Admin --> UC10
+Pembeli --> UC10
+
+UC10 --> UC11
+UC11 --> UC12: Kredensial Tidak Valid
+UC12 --> UC10
+
+UC11 --> UC1: Kredensial Valid
+UC1 --> UC3: Kelola Produk
+UC3 --> UC4: Tambah Produk
+UC3 --> UC5: Edit Produk
+UC3 --> UC6: Hapus Produk
+UC3 --> UC7: Pencatatan Pesanan
+UC7 --> UC8: Catat Pesanan
+UC7 --> UC9: Proses Pembayaran
+UC9 --> UC17: Update Stok Produk (Extend)
+UC3 --> UC16: Logout
+
+UC11 --> UC2: Kredensial Valid
+UC2 --> UC13: Melihat Produk
+UC13 --> UC14: Memesan Produk
+UC14 --> UC15: Konfirmasi Pesanan
+UC2 --> UC16: Logout
+
+@enduml

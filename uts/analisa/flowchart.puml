@@ -1,0 +1,54 @@
+@startuml
+title Flowchart - Aplikasi Manajemen Data Barang Frozen Food.
+start
+
+' ==== Login Pengguna ====
+:Login Pengguna (Admin/Pembeli);
+if (Login berhasil?) then (Yes)
+    :Akses Dashboard;
+else (No)
+    :Gagal Login;
+    stop
+endif
+
+' ==== Tampilkan Daftar Produk ====
+:Lihat Daftar Produk;
+:Tampilkan Nama Produk, Harga, Stok, Deskripsi;
+
+if (Pengguna adalah Admin?) then (Ya)
+    ' ==== Kelola Produk (Hanya untuk Admin) ====
+    :Tambah/Ubah/Hapus Produk;
+    :Update Database Produk;
+    :Update Tampilan Daftar Produk;
+endif
+
+' ==== Proses Pemesanan (Admin & Pembeli) ====
+if (Pengguna Membuat Pesanan?) then (Ya)
+    :Catat Pesanan Pembeli;
+    :Masukkan Nama Pembeli, Kontak, Alamat;
+    :Masukkan Nama Produk, Jumlah, Total Harga;
+    :Kurangi Stok Barang di Database;
+    :Simpan Data ke Tabel Pesanan (Orders Table);
+    :Simpan Data Pembeli ke Tabel Pengguna (Users Table);
+
+    ' ==== Proses Pembayaran ====
+    :Proses Pembayaran;
+    if (Metode Pembayaran?) then (Tunai)
+        :Simpan Transaksi (Tunai);
+    else (Debit/E-wallet)
+        :Simpan Transaksi (Debit/E-wallet);
+    endif
+    :Data Transaksi Tersimpan ke Tabel Transaksi (Transactions Table);
+
+    ' ==== Update Stok & Menampilkan Data ====
+    :Update Stok Barang setelah Transaksi;
+    :Tampilkan Stok Terbaru di Daftar Produk;
+else (Tidak)
+    :Hanya Melihat Produk;
+endif
+
+' ==== Logout ====
+:Logout;
+stop
+
+@enduml
