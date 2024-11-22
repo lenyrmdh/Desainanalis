@@ -9,7 +9,7 @@
 ## 1. Tujuan Proyek
 
 ### Objektif
-Aplikasi ini dirancang untuk memudahkan pemilik usaha frozen food sehat dalam mengelola produk, mencatat pesanan dari pembeli, serta memproses pembayaran dengan efisien. Aplikasi ini bertujuan untuk mendukung pengelolaan penjualan.
+Aplikasi ini dirancang untuk memudahkan pemilik usaha frozen food sehat dalam mengelola produk, mencatat pesanan, serta memproses pembayaran dengan efisien. Aplikasi ini bertujuan untuk mendukung pengelolaan penjualan.
 
 ### Latar Belakang
 Seiring meningkatnya minat terhadap makanan sehat, terutama frozen food yang praktis dan sehat, toko-toko frozen food membutuhkan sistem manajemen yang mudah dan efisien. Sistem ini memungkinkan penjual mengelola produk serta melayani pesanan dari pembeli secara lebih terorganisir.
