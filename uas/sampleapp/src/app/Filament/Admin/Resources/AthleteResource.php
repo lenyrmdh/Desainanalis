@@ -31,18 +31,9 @@ class AthleteResource extends Resource
                      ->required(),
                 Forms\Components\TextInput::make('gender')
                     ->label('Jenis Kelamin')
-                    ->options([
-                            'male' => 'Laki-laki',
-                            'female' => 'Perempuan',
-                    ])
                     ->required(),
                 Forms\Components\TextInput::make('skill_level')
                     ->label('Tingkat Keterampilan')
-                    ->options([
-                            'beginner' => 'Pemula',
-                            'intermediate' => 'Menengah',
-                            'advanced' => 'Lanjutan',
-                    ])
                     ->required(),
                 Forms\Components\TextInput::make('training_history')
                     ->label('Riwayat Pelatihan')

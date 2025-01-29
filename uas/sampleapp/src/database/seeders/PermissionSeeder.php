@@ -41,11 +41,13 @@ class PermissionSeeder extends Seeder
         $athleteRole = Role::firstOrCreate(['name' => 'athlete']);
 
         // Assign the permissions to the 'admin' role
-        $adminRole->givePermissionTo($permissions);
+        $adminRole->syncPermissions($permissions);
 
-        $athleteRole->givePermissionTo([
-            'view_athletes',
-            'view_schedules',
-        ]);
+        // Assign only view permissions to the 'athlete' role
+        $athleteRole->syncPermissions([
+          'view_athletes',
+          'view_schedules',
+          
+      ]);
     }
 }

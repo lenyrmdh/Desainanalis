@@ -12,4 +12,10 @@ class Athlete extends Model
     protected $fillable = [
         'name', 'age', 'gender', 'skill_level', 'training_history', 'competition_evaluation',
     ];
+
+// Relasi ke model User
+public function user()
+{
+    return $this->belongsTo(User::class);
+}
 }
