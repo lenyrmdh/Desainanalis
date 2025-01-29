@@ -69,7 +69,7 @@ Sistem ini membutuhkan mekanisme login yang membedakan dua peran utama:
   - Tidak memiliki akses ke pengelolaan sistem.
 
 
-## **d.  Model, Migrasi, Resource, dan Data Awal yang Dibutuhkan untuk Sistem Manajemen Atlet Biliar**
+## **c.  Model, Migrasi, Resource, dan Data Awal yang Dibutuhkan untuk Sistem Manajemen Atlet Biliar**
 
 ## **Model Data**:
 - **Athletes**
@@ -115,7 +115,7 @@ Sistem ini membutuhkan mekanisme login yang membedakan dua peran utama:
 - `updated_at`: timestamp
 
 
-## **e.  Manajemen Jadwal Latihan**
+## **d.  Manajemen Jadwal Latihan**
 - **Admin memiliki kontrol penuh terhadap jadwal latihan, termasuk**:
   - Menjadwalkan sesi latihan harian.
   - Menentukan fasilitas yang digunakan untuk latihan.
