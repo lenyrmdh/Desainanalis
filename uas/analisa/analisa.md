@@ -80,10 +80,6 @@ Sistem ini membutuhkan mekanisme login yang membedakan dua peran utama:
   - Menentukan fasilitas yang digunakan untuk latihan.
   - Mengelola persiapan kompetisi dan memastikan jeda istirahat sesuai kebutuhan atlet.
 
-## **e. Atlet**
-- Hanya dapat melihat jadwal yang telah ditentukan oleh admin.
-- Tidak memiliki akses untuk mengedit atau mengubah jadwal.
-
 
 ## 2. Analisis Sistem Manajemen Digital
 
