@@ -41,9 +41,9 @@ pendekatan profesional. Dengan membangun program ini, kita bisa:
 ---
 
 ## Langkah-Langkah Analisis untuk Memulai Program Pembibitan Atlet Biliar
+---
 
-
-## Analisis Situasi dan Potensi Lokal
+## **analisis Situasi dan Potensi Lokal**:
 
 - **Pemetaan Potensi**:
   - Identifikasi jumlah tempat biliar dan potensinya sebagai tempat latihan.
@@ -56,8 +56,6 @@ pendekatan profesional. Dengan membangun program ini, kita bisa:
 
 ## Analisis Sistem Manajemen Digital untuk Program Atlet Biliar
 
-
-## **A. Sistem Login dan Akses Berdasarkan Peran**
 Sistem ini membutuhkan mekanisme login yang membedakan dua peran utama:
 
 - **Admin**:
@@ -70,19 +68,19 @@ Sistem ini membutuhkan mekanisme login yang membedakan dua peran utama:
   - Melihat data diri sendiri tanpa bisa mengedit.
   - Tidak memiliki akses ke pengelolaan sistem.
 
-## **B.Pengelolaan Data Atlet dan Pelatih**
+## Pengelolaan Data Atlet dan Pelatih
 - Admin akan bertindak sebagai pengelola sistem yang mencatat data diri atlet dan pelatih.
 - Data ini akan mencakup:
   - **Atlet**: Nama, usia, tingkat keterampilan, serta riwayat pelatihan.
   - **Pelatih**: Nama, kualifikasi, dan pengalaman kerja.
 
-## C.Manajemen Jadwal Latihan
+## Manajemen Jadwal Latihan
 - **Admin memiliki kontrol penuh terhadap jadwal latihan, termasuk**:
   - Menjadwalkan sesi latihan harian.
   - Menentukan fasilitas yang digunakan untuk latihan.
   - Mengelola persiapan kompetisi dan memastikan jeda istirahat sesuai kebutuhan atlet.
 
-## D. Atlet
+## Atlet
 - Hanya dapat melihat jadwal yang telah ditentukan oleh admin.
 - Tidak memiliki akses untuk mengedit atau mengubah jadwal.
 
@@ -99,37 +97,36 @@ Sistem ini membutuhkan mekanisme login yang membedakan dua peran utama:
 
 
 ## **5W1H **
-
-- **WHAT**
 ---
+- **WHAT**
 **Apa yang menjadi fokus utama dalam cabor biliar?**
 - Peningkatan teknik dasar biliar, strategi permainan, dan optimalisasi daya tahan serta konsentrasi atlet.
+---
 
 - **WHY**
----
 **Mengapa cabor biliar membutuhkan perhatian khusus?**
 - Regenerasi atlet berbakat diperlukan untuk menjaga prestasi di turnamen nasional dan internasional. Manajemen latihan yang buruk dapat menyebabkan penurunan performa atlet.
+---
 
 - **WHERE**
----
 - **Di mana implementasi solusi dapat dilakukan?**
  - Dalam sistem manajemen pelatihan berbasis digital yang dapat diakses oleh atlet.
+---
 
 - **WHO**
----
 - **Siapa yang terlibat dalam solusi ini?**
  - Pelatih, atlet, pengelola program(admin)
+---
 
 - **WHEN**
----
 - **Kapan solusi ini harus diterapkan?**
  - Segera, untuk mendukung program pembibitan atlet biliar muda yang lebih terstruktur dan efisien dalam waktu dekat.
+--- 
 
 - **HOW**
----
 - **Bagaimana solusi ini diterapkan?**
  - Melalui implementasi sistem digital yang memudahkan pelatih dalam memberikan latihan yang terstruktur dan memonitor kemajuan atlet secara lebih personal.
-
+---
 
 **Tujuan**: Temukan celah untuk menciptakan keunggulan kompetitif, seperti pelatihan khusus untuk anak-anak dengan pendekatan fun dan interaktif.
 
