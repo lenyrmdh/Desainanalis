@@ -1,5 +1,6 @@
+# Dokumen Persyaratan Bisnis (BRD)
 
-**Bidang Usaha**: Pelatihan dan Pembibitan Atlet Biliar 
+**Bidang Usaha**: Pembibitan Atlet Biliar Dengan Sistem Manajemen Pelatihan yang Terarah.
 **Tanggal**: 31 Januari 2025  
 
 ---
@@ -19,6 +20,7 @@ Biliar diakui sebagai olahraga mental yang memadukan strategi, konsentrasi,
 dan keahlian teknis. Dalam kompetisi, ini juga menjadi cabang olahraga resmi
 di beberapa turnamen tingkat dunia seperti *SEA Games* dan *Asian Games*.
 
+---
 
 ## Tujuan Proyek
 
@@ -36,6 +38,8 @@ pendekatan profesional. Dengan membangun program ini, kita bisa:
 - Menyediakan akses fasilitas dan pelatih berkualitas.
 - Mendukung Sistem manajemen digital yang dapat mempermudah atlit mengakses data.
 - Menyumbang atlet biliar kompetitif di tingkat nasional dan internasional.
+
+---
 
 ## Langkah-Langkah Analisis untuk Memulai Program Pembibitan Atlet Biliar
 
@@ -122,7 +126,6 @@ Sistem ini membutuhkan mekanisme login yang membedakan dua peran utama:
 
 **Tujuan**: Temukan celah untuk menciptakan keunggulan kompetitif, seperti pelatihan khusus untuk anak-anak dengan pendekatan fun dan interaktif.
 
----
 
 ### **5. Analisis Peluang dan Tantangan (SWOT)**
 
@@ -134,6 +137,7 @@ Sistem ini membutuhkan mekanisme login yang membedakan dua peran utama:
 | **Threat**               | Kompetitor lebih besar, anggapan negatif tentang biliar sebagai hiburan dewasa, atau regulasi.  |
 
 ---
+
 ## Langkah Persiapan Program
 
 ### **1. Fasilitas dan Infrastruktur**
