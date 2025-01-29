@@ -6,7 +6,7 @@
 
 ---
 
-## Apa Itu Biliar?
+### Apa Itu Biliar?
 
 *Biliar* adalah olahraga presisi di mana pemain menggunakan stik (cue stick) 
 untuk memukul bola (cue ball) ke bola target lain di atas meja khusus. Terdapat 
@@ -24,13 +24,11 @@ di beberapa turnamen tingkat dunia seperti *SEA Games* dan *Asian Games*.
 ---
 
 ## Tujuan Proyek
-
-### **Objektif**
 Proyek ini dirancang untuk mengembangkan dan membina generasi muda menjadi atlet profesional di cabang olahraga biliar. 
 Dengan menyediakan Pelatih dan Sistem Manajemen yang dapat diakses secara digital Program ini bertujuan untuk 
 menciptakan ekosistem pelatihan yang terstruktur, modern, dan sesuai standar internasional. 
 
-### **Latar Belakang**
+## Latar Belakang
 Olahraga biliar semakin populer, terutama di kalangan generasi muda. Namun, masih sedikit
 program pembibitan atlet yang dirancang khusus untuk mengembangkan talenta lokal dengan 
 pendekatan profesional. Dengan membangun program ini, kita bisa:
@@ -44,7 +42,7 @@ pendekatan profesional. Dengan membangun program ini, kita bisa:
 
 ## Langkah-Langkah Analisis untuk Memulai Program Pembibitan Atlet Biliar
 
-### **1. Analisis Situasi dan Potensi Lokal**
+## **1. Analisis Situasi dan Potensi Lokal**
 
 - **Pemetaan Potensi**:
   - Identifikasi jumlah tempat biliar dan potensinya sebagai tempat latihan.
@@ -55,72 +53,78 @@ pendekatan profesional. Dengan membangun program ini, kita bisa:
   - Libatkan pengelola tempat biliar lokal sebagai mitra awal untuk menghemat biaya penyediaan fasilitas.
   - Libatkan komunitas atau organisasi olahraga untuk mendukung kampanye dan program.
 
-### **2. Analisis Sistem Manajemen Digital untuk Program Atlet Biliar**
+## **2. Analisis Sistem Manajemen Digital untuk Program Atlet Biliar**
 
-## A. Sistem Login dan Akses Berdasarkan Peran
+**A. Sistem Login dan Akses Berdasarkan Peran**
 Sistem ini membutuhkan mekanisme login yang membedakan dua peran utama:
 
-### Admin 
+## Admin 
 - Mengelola data atlet dan pelatih.
 - Mengatur jadwal latihan dan sesi pelatihan.
 - Memiliki akses penuh untuk melakukan perubahan data.
 
-### Atlet
+## Atlet
 - Hanya bisa melihat jadwal latihan yang telah dibuat oleh admin.
 - Melihat data diri sendiri tanpa bisa mengedit.
 - Tidak memiliki akses ke pengelolaan sistem.
 
-## B. Pengelolaan Data Atlet dan Pelatih
+**B. Pengelolaan Data Atlet dan Pelatih**
 - Admin akan bertindak sebagai pengelola sistem yang mencatat data diri atlet dan pelatih.
 - Data ini akan mencakup:
   - **Atlet**: Nama, usia, tingkat keterampilan, serta riwayat pelatihan.
   - **Pelatih**: Nama, kualifikasi, dan pengalaman kerja.
 
-## C. Manajemen Jadwal Latihan
-### Admin memiliki kontrol penuh terhadap jadwal latihan, termasuk:
+**C. Manajemen Jadwal Latihan**
+## Admin memiliki kontrol penuh terhadap jadwal latihan, termasuk:##
 - Menjadwalkan sesi latihan harian.
 - Menentukan fasilitas yang digunakan untuk latihan.
 - Mengelola persiapan kompetisi dan memastikan jeda istirahat sesuai kebutuhan atlet.
 
-### D.Atlet:
+**D.Atlet:**
 - Hanya dapat melihat jadwal yang telah ditentukan oleh admin.
 - Tidak memiliki akses untuk mengedit atau mengubah jadwal.
 
-### **3. Analisis Sistem Manajemen Digital**
+## **3. Analisis Sistem Manajemen Digital**
 
-# Fitur Utama untuk Admin
+**Fitur Utama untuk Admin**
 - Admin dapat menambahkan data diri atlet, termasuk nama, usia, tingkat keterampilan, dan riwayat pelatihan.
 - Admin dapat menambahkan data diri pelatih, termasuk nama, kualifikasi, dan pengalaman kerja.
 - Admin dapat mengatur jadwal latihan, termasuk sesi latihan harian dan fasilitas yang digunakan.
 
-# Fitur Utama untuk Atlet
+**Fitur Utama untuk Atlet**
 - Atlet hanya bisa melihat jadwal latihan yang telah ditentukan oleh admin.
 - Atlet dapat melihat data diri mereka sendiri, seperti nama, usia, dan tingkat keterampilan.
 
 
 ## **4. 5W1H **
 
-### WHAT
+## WHAT
+---
 **Apa yang menjadi fokus utama dalam cabor biliar?**
 - Peningkatan teknik dasar biliar, strategi permainan, dan optimalisasi daya tahan serta konsentrasi atlet.
 
-### WHY
+## WHY
+---
 **Mengapa cabor biliar membutuhkan perhatian khusus?**
 - Regenerasi atlet berbakat diperlukan untuk menjaga prestasi di turnamen nasional dan internasional. Manajemen latihan yang buruk dapat menyebabkan penurunan performa atlet.
 
-### WHERE
+## WHERE
+---
 **Di mana implementasi solusi dapat dilakukan?**
 - Dalam sistem manajemen pelatihan berbasis digital yang dapat diakses oleh atlet.
 
-### WHO
+## WHO
+---
 **Siapa yang terlibat dalam solusi ini?**
 - Pelatih, atlet, pengelola program(admin)
 
-### WHEN
+## WHEN
+---
 **Kapan solusi ini harus diterapkan?**
 - Segera, untuk mendukung program pembibitan atlet biliar muda yang lebih terstruktur dan efisien dalam waktu dekat.
 
-### HOW
+## HOW
+---
 **Bagaimana solusi ini diterapkan?**
 - Melalui implementasi sistem digital yang memudahkan pelatih dalam memberikan latihan yang terstruktur dan memonitor kemajuan atlet secara lebih personal.
 
@@ -128,7 +132,7 @@ Sistem ini membutuhkan mekanisme login yang membedakan dua peran utama:
 **Tujuan**: Temukan celah untuk menciptakan keunggulan kompetitif, seperti pelatihan khusus untuk anak-anak dengan pendekatan fun dan interaktif.
 
 
-### **5. Analisis Peluang dan Tantangan (SWOT)**
+## **5. Analisis Peluang dan Tantangan (SWOT)**
 
 | **Faktor**               | **Penjelasan**                                                                                   |
 |--------------------------|-------------------------------------------------------------------------------------------------|
@@ -141,7 +145,7 @@ Sistem ini membutuhkan mekanisme login yang membedakan dua peran utama:
 
 ## Langkah Persiapan Program
 
-### **1. Fasilitas dan Infrastruktur**
+## **1. Fasilitas dan Infrastruktur**
 
 - **Fasilitas Utama**:
   - Minimal 2-3 meja biliar ukuran standar (9 kaki).
@@ -163,17 +167,17 @@ Sistem ini membutuhkan mekanisme login yang membedakan dua peran utama:
 - **Model, Migrasi, Resource, dan Data Awal yang Dibutuhkan untuk Sistem Manajemen Atlet Biliar**
 
 ### Model Data:
-#### Athletes
+## Athletes
 - Menyimpan informasi tentang atlet, seperti nama, usia, jenis kelamin, tingkat keterampilan, riwayat pelatihan, dan hasil evaluasi kompetisi.
 
-#### Coaches
+## Coaches
 - Menyimpan data pelatih, termasuk nama, kualifikasi, dan pengalaman kerja.
 
-#### Schedules
+## Schedules
 - Menyimpan data jadwal latihan atlet, termasuk sesi latihan, fasilitas yang digunakan, dan durasi latihan.
 
 ### Struktur Tabel:
-#### Tabel Atlet (Athletes Table)
+## Tabel Atlet (Athletes Table)
 - `id`: bigint UNSIGNED (Primary Key)
 - `name`: varchar(255) - Nama lengkap atlet
 - `age`: int(11) - Usia atlet
@@ -184,7 +188,7 @@ Sistem ini membutuhkan mekanisme login yang membedakan dua peran utama:
 - `created_at`: timestamp
 - `updated_at`: timestamp
 
-#### Tabel Pelatih (Coaches Table)
+## Tabel Pelatih (Coaches Table)
 - `id`: bigint UNSIGNED (Primary Key)
 - `name`: varchar(255) - Nama lengkap pelatih
 - `qualification`: text - Kualifikasi pelatih
@@ -192,7 +196,7 @@ Sistem ini membutuhkan mekanisme login yang membedakan dua peran utama:
 - `created_at`: timestamp
 - `updated_at`: timestamp
 
-#### Tabel Jadwal Latihan (Schedules Table)
+## Tabel Jadwal Latihan (Schedules Table)
 - `id`: bigint UNSIGNED (Primary Key)
 - `athlete_id`: bigint UNSIGNED - ID atlet
 - `coach_id`: bigint UNSIGNED - ID pelatih
@@ -205,7 +209,7 @@ Sistem ini membutuhkan mekanisme login yang membedakan dua peran utama:
 - `updated_at`: timestamp
 
 
-- **Manajemen Waktu Terkait Pertandingan**
+## **Manajemen Waktu Terkait Pertandingan**
 
 * Langkah-Langkah Perencanaan:  
 Pembagian Waktu:
@@ -219,7 +223,7 @@ Klasemen Atlet Klasemen:
 - Latihan: Atlet yang telah menyelesaikan 90% dari porsi latihan wajib.
 
 
-- **Lokasi**
+## **Lokasi**
   - Jika tidak memiliki tempat sendiri, sewa tempat biliar dengan kesepakatan khusus untuk waktu latihan.
 
 ---
