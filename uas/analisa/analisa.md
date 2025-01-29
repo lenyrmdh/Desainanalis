@@ -56,7 +56,7 @@ pendekatan profesional. Dengan membangun program ini, kita bisa:
 
 ## **b.  Analisis Sistem Manajemen Digital untuk Program Atlet Biliar**
 
-## **1. Sistem ini membutuhkan mekanisme login yang membedakan dua peran utama**:
+- **Sistem ini membutuhkan mekanisme login yang membedakan dua peran utama**:
 
 - **untuk Admin:**
   - Admin dapat menambahkan data diri atlet, termasuk nama, usia, tingkat keterampilan, dan  riwayat pelatihan.
@@ -69,7 +69,7 @@ pendekatan profesional. Dengan membangun program ini, kita bisa:
   - Tidak memiliki akses ke pengelolaan sistem.
 
 
-## **2.  Model, Migrasi, Resource, dan Data Awal yang Dibutuhkan untuk Sistem Manajemen Atlet Biliar**
+- **Model, Migrasi, Resource, dan Data Awal yang Dibutuhkan untuk Sistem Manajemen Atlet Biliar**
 
 ## **Model Data**:
 - **Athletes**
@@ -81,7 +81,7 @@ pendekatan profesional. Dengan membangun program ini, kita bisa:
 - **Schedules**
    - Menyimpan data jadwal latihan atlet, termasuk sesi latihan, fasilitas yang digunakan, dan durasi latihan.
 
-## **3.  Struktur Tabel**:
+- **Struktur Tabel**:
 
 ## **Tabel Atlet (Athletes Table)**
 - `id`: bigint UNSIGNED (Primary Key)
