@@ -97,36 +97,34 @@ Sistem ini membutuhkan mekanisme login yang membedakan dua peran utama:
 ## **3.  5W1H **
 ---
 - **WHAT**
-**Apa yang menjadi fokus utama dalam cabor biliar?**
-- Peningkatan teknik dasar biliar, strategi permainan, dan optimalisasi daya tahan serta konsentrasi atlet.
+- **Apa yang menjadi fokus utama dalam cabor biliar?**
+  - Peningkatan teknik dasar biliar, strategi permainan, dan optimalisasi daya tahan serta konsentrasi atlet.
 ---
 
 - **WHY**
-**Mengapa cabor biliar membutuhkan perhatian khusus?**
-- Regenerasi atlet berbakat diperlukan untuk menjaga prestasi di turnamen nasional dan internasional. Manajemen latihan yang buruk dapat menyebabkan penurunan performa atlet.
+- **Mengapa cabor biliar membutuhkan perhatian khusus?**
+  - Regenerasi atlet berbakat diperlukan untuk menjaga prestasi di turnamen nasional dan internasional. Manajemen latihan yang buruk dapat menyebabkan penurunan performa atlet.
 ---
 
 - **WHERE**
 - **Di mana implementasi solusi dapat dilakukan?**
- - Dalam sistem manajemen pelatihan berbasis digital yang dapat diakses oleh atlet.
+  - Dalam sistem manajemen pelatihan berbasis digital yang dapat diakses oleh atlet.
 ---
 
 - **WHO**
 - **Siapa yang terlibat dalam solusi ini?**
- - Pelatih, atlet, pengelola program(admin)
+  - Pelatih, atlet, pengelola program(admin)
 ---
 
 - **WHEN**
 - **Kapan solusi ini harus diterapkan?**
- - Segera, untuk mendukung program pembibitan atlet biliar muda yang lebih terstruktur dan efisien dalam waktu dekat.
+  - Segera, untuk mendukung program pembibitan atlet biliar muda yang lebih terstruktur dan efisien dalam waktu dekat.
 --- 
 
 - **HOW**
 - **Bagaimana solusi ini diterapkan?**
- - Melalui implementasi sistem digital yang memudahkan pelatih dalam memberikan latihan yang terstruktur dan memonitor kemajuan atlet secara lebih personal.
+  - Melalui implementasi sistem digital yang memudahkan pelatih dalam memberikan latihan yang terstruktur dan memonitor kemajuan atlet secara lebih personal.
 ---
-
-**Tujuan**: Temukan celah untuk menciptakan keunggulan kompetitif, seperti pelatihan khusus untuk anak-anak dengan pendekatan fun dan interaktif.
 
 
 ## **4. Analisis Peluang dan Tantangan (SWOT)** 
@@ -143,7 +141,7 @@ Sistem ini membutuhkan mekanisme login yang membedakan dua peran utama:
 
 ## **5. Langkah Persiapan Program**
 
-## ** Fasilitas dan Infrastruktur**
+## **Fasilitas dan Infrastruktur**
 
 - **Fasilitas Utama**:
   - Minimal 2-3 meja biliar ukuran standar (9 kaki).
@@ -280,25 +278,25 @@ Pembagian Waktu:
 
 ## **14.Strategi untuk Kesuksesan Atlet**
 
-## **a. Identifikasi dan Pengembangan Bakat**
+- **a. Identifikasi dan Pengembangan Bakat**
 
-- Gunakan tes awal untuk menilai bakat pemain, seperti akurasi pukulan, pemahaman strategi, dan fokus.
-- Buat jalur pengembangan khusus untuk pemain berbakat dengan intensitas latihan lebih tinggi.
+  - Gunakan tes awal untuk menilai bakat pemain, seperti akurasi pukulan, pemahaman strategi, dan fokus.
+  - Buat jalur pengembangan khusus untuk pemain berbakat dengan intensitas latihan lebih tinggi.
 
-## **b. Dukungan Psikologis**
+- **b. Dukungan Psikologis**
 
-- Sediakan sesi pelatihan mental untuk membantu pemain menghadapi tekanan kompetisi.
-- Libatkan psikolog olahraga jika memungkinkan.
+  - Sediakan sesi pelatihan mental untuk membantu pemain menghadapi tekanan kompetisi.
+  - Libatkan psikolog olahraga jika memungkinkan.
 
-## **c. Pembinaan Karakter**
+- **c. Pembinaan Karakter**
 
-- Latih disiplin, etika, dan kerja tim sebagai bagian dari program pembinaan.
-- Libatkan orang tua dalam proses pembinaan agar dukungan lebih maksimal.
+  - Latih disiplin, etika, dan kerja tim sebagai bagian dari program pembinaan.
+  - Libatkan orang tua dalam proses pembinaan agar dukungan lebih maksimal.
 
-## **d. Program Eksposur dan Kompetisi Eksternal**
+- **d. Program Eksposur dan Kompetisi Eksternal**
 
-- Kirim atlet muda ke turnamen lokal dan nasional untuk mendapatkan pengalaman nyata.
-- Jalin kerja sama dengan klub biliar di daerah lain untuk pertandingan persahabatan.
+  - Kirim atlet muda ke turnamen lokal dan nasional untuk mendapatkan pengalaman nyata.
+  - Jalin kerja sama dengan klub biliar di daerah lain untuk pertandingan persahabatan.
 
 ---
 
