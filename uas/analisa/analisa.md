@@ -116,13 +116,6 @@ pendekatan profesional. Dengan membangun program ini, kita bisa:
 - `updated_at`: timestamp
 
 
-## **c.  Manajemen Jadwal Latihan**
-- **Admin memiliki kontrol penuh terhadap jadwal latihan, termasuk**:
-  - Menjadwalkan sesi latihan harian.
-  - Menentukan fasilitas yang digunakan untuk latihan.
-  - Mengelola persiapan kompetisi dan memastikan jeda istirahat sesuai kebutuhan atlet.
-
-
 ## **2.  5W1H**
 ---
 - **WHAT**
@@ -188,7 +181,7 @@ pendekatan profesional. Dengan membangun program ini, kita bisa:
    - Hasil evaluasi kompetisi.
 
 
-## **5.  Manajemen Waktu Terkait Pertandingan**
+## **5.  Manajemen Waktu Terkait Latihan & Pertandingan**
 - **Langkah-Langkah Perencanaan**:  
 Pembagian Waktu:
   - Latihan rutin: 4 hari/minggu.
