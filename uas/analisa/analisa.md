@@ -160,7 +160,7 @@ Sistem ini membutuhkan mekanisme login yang membedakan dua peran utama:
 
 ## **6. Model, Migrasi, Resource, dan Data Awal yang Dibutuhkan untuk Sistem Manajemen Atlet Biliar**
 
-- ## **Model Data**:
+## **Model Data**:
 - **Athletes**
    - Menyimpan informasi tentang atlet, seperti nama, usia, jenis kelamin, tingkat keterampilan, riwayat pelatihan, dan hasil evaluasi kompetisi.
 
