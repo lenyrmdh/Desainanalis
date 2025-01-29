@@ -43,7 +43,7 @@ pendekatan profesional. Dengan membangun program ini, kita bisa:
 ## 1. Langkah-Langkah Analisis untuk Memulai Program Pembibitan Atlet Biliar
 ---
 
-## **a. Analisis Situasi dan Potensi Lokal**:
+## **a.  Analisis Situasi dan Potensi Lokal**:
 
 - **Pemetaan Potensi**:
   - Identifikasi jumlah tempat biliar dan potensinya sebagai tempat latihan.
@@ -54,111 +54,22 @@ pendekatan profesional. Dengan membangun program ini, kita bisa:
   - Libatkan pengelola tempat biliar lokal sebagai mitra awal untuk menghemat biaya penyediaan fasilitas.
   - Libatkan komunitas atau organisasi olahraga untuk mendukung kampanye dan program.
 
-## **b. Analisis Sistem Manajemen Digital untuk Program Atlet Biliar**
+## **b.  Analisis Sistem Manajemen Digital untuk Program Atlet Biliar**
 
 Sistem ini membutuhkan mekanisme login yang membedakan dua peran utama:
 
-- **Admin**:
-  - Mengelola data atlet dan pelatih.
-  - Mengatur jadwal latihan dan sesi pelatihan.
-  - Memiliki akses penuh untuk melakukan perubahan data.
-
-- **Atlet**:
-  - Hanya bisa melihat jadwal latihan yang telah dibuat oleh admin.
-  - Melihat data diri sendiri tanpa bisa mengedit.
-  - Tidak memiliki akses ke pengelolaan sistem.
-
-## **c. Pengelolaan Data Atlet dan Pelatih**
-- Admin akan bertindak sebagai pengelola sistem yang mencatat data diri atlet dan pelatih.
-- Data ini akan mencakup:
-  - **Atlet**: Nama, usia, tingkat keterampilan, serta riwayat pelatihan.
-  - **Pelatih**: Nama, kualifikasi, dan pengalaman kerja.
-
-## **d. Manajemen Jadwal Latihan**
-- **Admin memiliki kontrol penuh terhadap jadwal latihan, termasuk**:
-  - Menjadwalkan sesi latihan harian.
-  - Menentukan fasilitas yang digunakan untuk latihan.
-  - Mengelola persiapan kompetisi dan memastikan jeda istirahat sesuai kebutuhan atlet.
-
-
-## 2. Analisis Sistem Manajemen Digital
-
-
-- **Fitur Utama untuk Admin:**
+- **untuk Admin:**
   - Admin dapat menambahkan data diri atlet, termasuk nama, usia, tingkat keterampilan, dan  riwayat pelatihan.
   - Admin dapat menambahkan data diri pelatih, termasuk nama, kualifikasi, dan pengalaman kerja.
   - Admin dapat mengatur jadwal latihan, termasuk sesi latihan harian dan fasilitas yang digunakan.
 
-- **Fitur Utama untuk Atlet:**
+- **untuk Atlet:**
   - Atlet hanya bisa melihat jadwal latihan yang telah ditentukan oleh admin.
   - Atlet dapat melihat data diri mereka sendiri, seperti nama, usia, dan tingkat keterampilan.
+  - Tidak memiliki akses ke pengelolaan sistem.
 
 
-## **3.  5W1H **
----
-- **WHAT**
-- **Apa yang menjadi fokus utama dalam cabor biliar?**
-  - Peningkatan teknik dasar biliar, strategi permainan, dan optimalisasi daya tahan serta konsentrasi atlet.
----
-
-- **WHY**
-- **Mengapa cabor biliar membutuhkan perhatian khusus?**
-  - Regenerasi atlet berbakat diperlukan untuk menjaga prestasi di turnamen nasional dan internasional. Manajemen latihan yang buruk dapat menyebabkan penurunan performa atlet.
----
-
-- **WHERE**
-- **Di mana implementasi solusi dapat dilakukan?**
-  - Dalam sistem manajemen pelatihan berbasis digital yang dapat diakses oleh atlet.
----
-
-- **WHO**
-- **Siapa yang terlibat dalam solusi ini?**
-  - Pelatih, atlet, pengelola program(admin)
----
-
-- **WHEN**
-- **Kapan solusi ini harus diterapkan?**
-  - Segera, untuk mendukung program pembibitan atlet biliar muda yang lebih terstruktur dan efisien dalam waktu dekat.
---- 
-
-- **HOW**
-- **Bagaimana solusi ini diterapkan?**
-  - Melalui implementasi sistem digital yang memudahkan pelatih dalam memberikan latihan yang terstruktur dan memonitor kemajuan atlet secara lebih personal.
----
-
-
-## **4. Analisis Peluang dan Tantangan (SWOT)** 
-
-
-| **Faktor**               | **Penjelasan**                                                                                   |
-|--------------------------|-------------------------------------------------------------------------------------------------|
-| **Strength**             | Passion dan dukungan lokal, ketersediaan tempat biliar, serta minat masyarakat yang mulai tumbuh.|
-| **Weakness**             | Keterbatasan anggaran, belum ada pelatih tetap, atau minim pengalaman dalam mengelola program.  |
-| **Opportunity**          | Minat generasi muda yang besar, peluang sponsor lokal, dan dukungan dari pemerintah daerah.     |
-| **Threat**               | Kompetitor lebih besar, anggapan negatif tentang biliar sebagai hiburan dewasa, atau regulasi.  |
-
----
-
-## **5. Langkah Persiapan Program**
-
-## **Fasilitas dan Infrastruktur**
-
-- **Fasilitas Utama**:
-  - Minimal 2-3 meja biliar ukuran standar (9 kaki).
-  - Stik biliar berkualitas untuk latihan, termasuk stik khusus untuk pemula.
-  - Bola biliar standar kompetisi.
-  - Lampu khusus di atas meja untuk pencahayaan optimal.
-
-- **Data Personal untuk Atlet**
-**Atribut Data**: 
-   - Nama lengkap.
-   - Usia.
-   - Jenis kelamin.
-   - Tingkat keterampilan (pemula/menengah/lanjutan).
-   - Riwayat pelatihan.
-   - Hasil evaluasi kompetisi.
-
-## **6. Model, Migrasi, Resource, dan Data Awal yang Dibutuhkan untuk Sistem Manajemen Atlet Biliar**
+## **d.  Model, Migrasi, Resource, dan Data Awal yang Dibutuhkan untuk Sistem Manajemen Atlet Biliar**
 
 ## **Model Data**:
 - **Athletes**
@@ -204,7 +115,79 @@ Sistem ini membutuhkan mekanisme login yang membedakan dua peran utama:
 - `updated_at`: timestamp
 
 
-## **7. Manajemen Waktu Terkait Pertandingan**
+## **e.  Manajemen Jadwal Latihan**
+- **Admin memiliki kontrol penuh terhadap jadwal latihan, termasuk**:
+  - Menjadwalkan sesi latihan harian.
+  - Menentukan fasilitas yang digunakan untuk latihan.
+  - Mengelola persiapan kompetisi dan memastikan jeda istirahat sesuai kebutuhan atlet.
+
+
+## **2.  5W1H**
+---
+- **WHAT**
+- **Apa yang menjadi fokus utama dalam cabor biliar?**
+  - Peningkatan teknik dasar biliar, strategi permainan, dan optimalisasi daya tahan serta konsentrasi atlet.
+---
+
+- **WHY**
+- **Mengapa cabor biliar membutuhkan perhatian khusus?**
+  - Regenerasi atlet berbakat diperlukan untuk menjaga prestasi di turnamen nasional dan internasional. Manajemen latihan yang buruk dapat menyebabkan penurunan performa atlet.
+---
+
+- **WHERE**
+- **Di mana implementasi solusi dapat dilakukan?**
+  - Dalam sistem manajemen pelatihan berbasis digital yang dapat diakses oleh atlet.
+---
+
+- **WHO**
+- **Siapa yang terlibat dalam solusi ini?**
+  - Pelatih, atlet, pengelola program(admin)
+---
+
+- **WHEN**
+- **Kapan solusi ini harus diterapkan?**
+  - Segera, untuk mendukung program pembibitan atlet biliar muda yang lebih terstruktur dan efisien dalam waktu dekat.
+--- 
+
+- **HOW**
+- **Bagaimana solusi ini diterapkan?**
+  - Melalui implementasi sistem digital yang memudahkan pelatih dalam memberikan latihan yang terstruktur dan memonitor kemajuan atlet secara lebih personal.
+---
+
+
+## **3.  Analisis Peluang dan Tantangan (SWOT)** 
+
+
+| **Faktor**               | **Penjelasan**                                                                                   |
+|--------------------------|-------------------------------------------------------------------------------------------------|
+| **Strength**             | Passion dan dukungan lokal, ketersediaan tempat biliar, serta minat masyarakat yang mulai tumbuh.|
+| **Weakness**             | Keterbatasan anggaran, belum ada pelatih tetap, atau minim pengalaman dalam mengelola program.  |
+| **Opportunity**          | Minat generasi muda yang besar, peluang sponsor lokal, dan dukungan dari pemerintah daerah.     |
+| **Threat**               | Kompetitor lebih besar, anggapan negatif tentang biliar sebagai hiburan dewasa, atau regulasi.  |
+
+---
+
+## **4.  Langkah Persiapan Program**
+
+## **Fasilitas dan Infrastruktur**
+
+- **Fasilitas Utama**:
+  - Minimal 2-3 meja biliar ukuran standar (9 kaki).
+  - Stik biliar berkualitas untuk latihan, termasuk stik khusus untuk pemula.
+  - Bola biliar standar kompetisi.
+  - Lampu khusus di atas meja untuk pencahayaan optimal.
+
+- **Data Personal untuk Atlet**
+**Atribut Data**: 
+   - Nama lengkap.
+   - Usia.
+   - Jenis kelamin.
+   - Tingkat keterampilan (pemula/menengah/lanjutan).
+   - Riwayat pelatihan.
+   - Hasil evaluasi kompetisi.
+
+
+## **5.  Manajemen Waktu Terkait Pertandingan**
 - **Langkah-Langkah Perencanaan**:  
 Pembagian Waktu:
   - Latihan rutin: 4 hari/minggu.
@@ -222,15 +205,15 @@ Pembagian Waktu:
 
 ---
 
-## **8. Kurikulum Latihan dan Penilaian atlet**
-                                                                                                        
+## **6.  Kurikulum Latihan dan Penilaian atlet**
+                                                                                                  
 - **Teknik Dasar**: Cara memegang stik, postur tubuh, teknik pukulan (stroke).
 - **Strategi Permainan**: Penempatan bola (position play), membaca situasi meja, bertahan, dan menyerang.
 - **Latihan Fisik**: Fokus pada koordinasi tangan-mata, refleks, dan stabilitas.
 - **Mental dan Konsentrasi**: Simulasi tekanan kompetisi, pengendalian emosi, dan fokus.
 
 
-## **9. Pelatih dan Mentor**                          
+## **7.  Pelatih dan Mentor**                          
 
 
 - Cari pelatih berpengalaman di bidang biliar, baik secara lokal maupun dari luar wilayah.
@@ -238,7 +221,7 @@ Pembagian Waktu:
 
 ---
 
-## **10. Rekrutmen dan Promosi**
+## **8.  Rekrutmen dan Promosi**
 
 
 - **Segmentasi Target**:
@@ -254,7 +237,7 @@ Pembagian Waktu:
 
 ---
 
-### **11. Pendanaan dan Sponsor**
+### **9.  Pendanaan dan Sponsor**
 
 - Cari sponsor lokal, seperti pemilik usaha atau merek yang relevan, misalnya minuman energi atau alat olahraga.
 - Jelaskan manfaat yang mereka dapatkan, seperti branding di acara kompetisi atau pelatihan.
@@ -262,21 +245,7 @@ Pembagian Waktu:
 
 ---
 
-### **12. Kompetisi Internal**
-
-- Setelah pelatihan berjalan, adakan kompetisi internal untuk mengukur perkembangan pemain dan meningkatkan motivasi mereka.
-- Kompetisi ini juga dapat digunakan untuk menarik sponsor baru.
-
----
-
-## **13. Sertifikasi dan Standar**
-
-- Pastikan pelatihan dan program sesuai dengan standar organisasi seperti World Pool-Billiard Association (WPA).
-- Jika memungkinkan, daftarkan program ke asosiasi olahraga resmi untuk mendapatkan pengakuan.
-
----
-
-## **14.Strategi untuk Kesuksesan Atlet**
+## **10. Strategi untuk Kesuksesan Atlet**
 
 - **a. Identifikasi dan Pengembangan Bakat**
 
