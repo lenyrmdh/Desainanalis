@@ -42,7 +42,7 @@ pendekatan profesional. Dengan membangun program ini, kita bisa:
 
 ## Langkah-Langkah Analisis untuk Memulai Program Pembibitan Atlet Biliar
 
-## **1. Analisis Situasi dan Potensi Lokal**
+## ** Analisis Situasi dan Potensi Lokal**
 
 - **Pemetaan Potensi**:
   - Identifikasi jumlah tempat biliar dan potensinya sebagai tempat latihan.
@@ -53,86 +53,86 @@ pendekatan profesional. Dengan membangun program ini, kita bisa:
   - Libatkan pengelola tempat biliar lokal sebagai mitra awal untuk menghemat biaya penyediaan fasilitas.
   - Libatkan komunitas atau organisasi olahraga untuk mendukung kampanye dan program.
 
-## **2. Analisis Sistem Manajemen Digital untuk Program Atlet Biliar**
+## ** Analisis Sistem Manajemen Digital untuk Program Atlet Biliar**
 
-**A. Sistem Login dan Akses Berdasarkan Peran**
+## **A. Sistem Login dan Akses Berdasarkan Peran**
 Sistem ini membutuhkan mekanisme login yang membedakan dua peran utama:
 
-## Admin 
-- Mengelola data atlet dan pelatih.
-- Mengatur jadwal latihan dan sesi pelatihan.
-- Memiliki akses penuh untuk melakukan perubahan data.
+- **Admin**:
+ - Mengelola data atlet dan pelatih.
+ - Mengatur jadwal latihan dan sesi pelatihan.
+ - Memiliki akses penuh untuk melakukan perubahan data.
 
-## Atlet
-- Hanya bisa melihat jadwal latihan yang telah dibuat oleh admin.
-- Melihat data diri sendiri tanpa bisa mengedit.
-- Tidak memiliki akses ke pengelolaan sistem.
+- **Atlet**:
+ - Hanya bisa melihat jadwal latihan yang telah dibuat oleh admin.
+ - Melihat data diri sendiri tanpa bisa mengedit.
+ - Tidak memiliki akses ke pengelolaan sistem.
 
-**B. Pengelolaan Data Atlet dan Pelatih**
+## **B. Pengelolaan Data Atlet dan Pelatih**
 - Admin akan bertindak sebagai pengelola sistem yang mencatat data diri atlet dan pelatih.
 - Data ini akan mencakup:
   - **Atlet**: Nama, usia, tingkat keterampilan, serta riwayat pelatihan.
   - **Pelatih**: Nama, kualifikasi, dan pengalaman kerja.
 
-**C. Manajemen Jadwal Latihan**
+## **C. Manajemen Jadwal Latihan**
 ## Admin memiliki kontrol penuh terhadap jadwal latihan, termasuk:##
 - Menjadwalkan sesi latihan harian.
 - Menentukan fasilitas yang digunakan untuk latihan.
 - Mengelola persiapan kompetisi dan memastikan jeda istirahat sesuai kebutuhan atlet.
 
-**D.Atlet:**
+## **D. Atlet**
 - Hanya dapat melihat jadwal yang telah ditentukan oleh admin.
 - Tidak memiliki akses untuk mengedit atau mengubah jadwal.
 
 ## **3. Analisis Sistem Manajemen Digital**
 
-**Fitur Utama untuk Admin**
-- Admin dapat menambahkan data diri atlet, termasuk nama, usia, tingkat keterampilan, dan riwayat pelatihan.
-- Admin dapat menambahkan data diri pelatih, termasuk nama, kualifikasi, dan pengalaman kerja.
-- Admin dapat mengatur jadwal latihan, termasuk sesi latihan harian dan fasilitas yang digunakan.
+- **Fitur Utama untuk Admin:**
+ - Admin dapat menambahkan data diri atlet, termasuk nama, usia, tingkat keterampilan, dan riwayat pelatihan.
+ - Admin dapat menambahkan data diri pelatih, termasuk nama, kualifikasi, dan pengalaman kerja.
+ - Admin dapat mengatur jadwal latihan, termasuk sesi latihan harian dan fasilitas yang digunakan.
 
-**Fitur Utama untuk Atlet**
-- Atlet hanya bisa melihat jadwal latihan yang telah ditentukan oleh admin.
-- Atlet dapat melihat data diri mereka sendiri, seperti nama, usia, dan tingkat keterampilan.
+- **Fitur Utama untuk Atlet:**
+ - Atlet hanya bisa melihat jadwal latihan yang telah ditentukan oleh admin.
+ - Atlet dapat melihat data diri mereka sendiri, seperti nama, usia, dan tingkat keterampilan.
 
 
-## **4. 5W1H **
+## **5W1H **
 
-## WHAT
+# WHAT
 ---
 **Apa yang menjadi fokus utama dalam cabor biliar?**
 - Peningkatan teknik dasar biliar, strategi permainan, dan optimalisasi daya tahan serta konsentrasi atlet.
 
-## WHY
+# WHY
 ---
 **Mengapa cabor biliar membutuhkan perhatian khusus?**
 - Regenerasi atlet berbakat diperlukan untuk menjaga prestasi di turnamen nasional dan internasional. Manajemen latihan yang buruk dapat menyebabkan penurunan performa atlet.
 
-## WHERE
+# WHERE
 ---
-**Di mana implementasi solusi dapat dilakukan?**
-- Dalam sistem manajemen pelatihan berbasis digital yang dapat diakses oleh atlet.
+- **Di mana implementasi solusi dapat dilakukan?**
+ - Dalam sistem manajemen pelatihan berbasis digital yang dapat diakses oleh atlet.
 
-## WHO
+# WHO
 ---
-**Siapa yang terlibat dalam solusi ini?**
-- Pelatih, atlet, pengelola program(admin)
+- **Siapa yang terlibat dalam solusi ini?**
+ - Pelatih, atlet, pengelola program(admin)
 
 ## WHEN
 ---
-**Kapan solusi ini harus diterapkan?**
-- Segera, untuk mendukung program pembibitan atlet biliar muda yang lebih terstruktur dan efisien dalam waktu dekat.
+- **Kapan solusi ini harus diterapkan?**
+ - Segera, untuk mendukung program pembibitan atlet biliar muda yang lebih terstruktur dan efisien dalam waktu dekat.
 
 ## HOW
 ---
-**Bagaimana solusi ini diterapkan?**
-- Melalui implementasi sistem digital yang memudahkan pelatih dalam memberikan latihan yang terstruktur dan memonitor kemajuan atlet secara lebih personal.
+- **Bagaimana solusi ini diterapkan?**
+ - Melalui implementasi sistem digital yang memudahkan pelatih dalam memberikan latihan yang terstruktur dan memonitor kemajuan atlet secara lebih personal.
 
 
 **Tujuan**: Temukan celah untuk menciptakan keunggulan kompetitif, seperti pelatihan khusus untuk anak-anak dengan pendekatan fun dan interaktif.
 
 
-## **5. Analisis Peluang dan Tantangan (SWOT)**
+## ** Analisis Peluang dan Tantangan (SWOT)**
 
 | **Faktor**               | **Penjelasan**                                                                                   |
 |--------------------------|-------------------------------------------------------------------------------------------------|
@@ -154,30 +154,29 @@ Sistem ini membutuhkan mekanisme login yang membedakan dua peran utama:
   - Lampu khusus di atas meja untuk pencahayaan optimal.
 
 - **Data Personal untuk Atlet**
+**Atribut Data**: 
+   - Nama lengkap.
+   - Usia.
+   - Jenis kelamin.
+   - Tingkat keterampilan (pemula/menengah/lanjutan).
+   - Riwayat pelatihan.
+   - Hasil evaluasi kompetisi.
 
-* Atribut Data: 
+## **Model, Migrasi, Resource, dan Data Awal yang Dibutuhkan untuk Sistem Manajemen Atlet Biliar**
 
-- Nama lengkap.
-- Usia.
-- Jenis kelamin.
-- Tingkat keterampilan (pemula/menengah/lanjutan).
-- Riwayat pelatihan.
-- Hasil evaluasi kompetisi.
+- ## **Model Data**:
+- **Athletes**
+   - Menyimpan informasi tentang atlet, seperti nama, usia, jenis kelamin, tingkat keterampilan, riwayat pelatihan, dan hasil evaluasi kompetisi.
 
-- **Model, Migrasi, Resource, dan Data Awal yang Dibutuhkan untuk Sistem Manajemen Atlet Biliar**
+- **Coaches**
+   - Menyimpan data pelatih, termasuk nama, kualifikasi, dan pengalaman kerja.
 
-### Model Data:
-## Athletes
-- Menyimpan informasi tentang atlet, seperti nama, usia, jenis kelamin, tingkat keterampilan, riwayat pelatihan, dan hasil evaluasi kompetisi.
+- **Schedules**
+   - Menyimpan data jadwal latihan atlet, termasuk sesi latihan, fasilitas yang digunakan, dan durasi latihan.
 
-## Coaches
-- Menyimpan data pelatih, termasuk nama, kualifikasi, dan pengalaman kerja.
+## Struktur Tabel:
 
-## Schedules
-- Menyimpan data jadwal latihan atlet, termasuk sesi latihan, fasilitas yang digunakan, dan durasi latihan.
-
-### Struktur Tabel:
-## Tabel Atlet (Athletes Table)
+## **Tabel Atlet (Athletes Table)**
 - `id`: bigint UNSIGNED (Primary Key)
 - `name`: varchar(255) - Nama lengkap atlet
 - `age`: int(11) - Usia atlet
@@ -210,17 +209,16 @@ Sistem ini membutuhkan mekanisme login yang membedakan dua peran utama:
 
 
 ## **Manajemen Waktu Terkait Pertandingan**
-
-* Langkah-Langkah Perencanaan:  
+- **Langkah-Langkah Perencanaan**:  
 Pembagian Waktu:
-- Latihan rutin: 4 hari/minggu.
-- Persiapan kompetisi: 2 minggu sebelum pertandingan.
-- Istirahat dan pemulihan: 1-2 hari/minggu.
-- Waktu pertandingan dihitung berdasarkan jumlah peserta dan format pertandingan.
-- Beri jeda minimal 15 menit antar pertandingan.
+  - Latihan rutin: 4 hari/minggu.
+  - Persiapan kompetisi: 2 minggu sebelum pertandingan.
+  - Istirahat dan pemulihan: 1-2 hari/minggu.
+  - Waktu pertandingan dihitung berdasarkan jumlah peserta dan format pertandingan.
+  - Beri jeda minimal 15 menit antar pertandingan.
 
-Klasemen Atlet Klasemen:
-- Latihan: Atlet yang telah menyelesaikan 90% dari porsi latihan wajib.
+- **Klasemen Atlet Klasemen**:
+  - Latihan: Atlet yang telah menyelesaikan 90% dari porsi latihan wajib.
 
 
 ## **Lokasi**
@@ -236,7 +234,6 @@ Klasemen Atlet Klasemen:
 
 
 ### **3. Pelatih dan Mentor**
-
 - Cari pelatih berpengalaman di bidang biliar, baik secara lokal maupun dari luar wilayah.
 - Jika anggaran terbatas, latih pelatih lokal dengan mengikuti seminar atau pelatihan biliar profesional.
 
