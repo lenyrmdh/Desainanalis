@@ -8,14 +8,21 @@
 
 ### Apa Itu Biliar?
 
-*Biliar* adalah olahraga presisi di mana pemain menggunakan stik (cue stick) 
-untuk memukul bola (cue ball) ke bola target lain di atas meja khusus. Terdapat 
-beberapa jenis permainan biliar, di antaranya:
+Biliar adalah olahraga presisi yang dimainkan di atas meja khusus menggunakan stik (**cue stick**) untuk memukul bola putih (**cue ball**) ke bola target. Dalam pembibitan atlet, fokus utama diberikan pada dua disiplin populer, yaitu **8-Ball** dan **9-Ball**, karena keduanya memiliki kompetisi yang luas di tingkat nasional dan internasional.
 
-1. **8-Ball**: Pemain harus memasukkan bola "solid" (nomor 1-7) atau "striped" (nomor 9-15) dan akhirnya memasukkan bola 8 untuk menang.  
-2. **9-Ball**: Permainan lebih cepat dengan tujuan memasukkan bola bernomor 1 hingga 9 secara berurutan.  
-3. **Snooker**: Menggunakan bola merah dan warna tertentu, dengan aturan yang lebih kompleks.  
-4. **Carom**: Permainan tanpa lubang, di mana poin diperoleh melalui pantulan bola.  
+## **Jenis Permainan yang Difokuskan**
+
+### **1. 8-Ball**
+- Permainan ini dimainkan dengan **15 bola target** yang terbagi menjadi dua kelompok: 
+  - "Solid" (nomor 1-7)
+  - "Striped" (nomor 9-15)
+- Pemain harus memasukkan semua bola dalam kelompoknya terlebih dahulu sebelum memasukkan **bola 8** untuk memenangkan pertandingan.
+- Strategi dalam 8-Ball melibatkan **kontrol posisi bola** dan **pemilihan tembakan** yang cermat untuk menghalangi lawan.
+
+### **2. 9-Ball**
+- Menggunakan hanya **9 bola** bernomor 1 hingga 9.
+- Pemain harus memukul bola dengan **nomor terendah** di atas meja terlebih dahulu, tetapi dapat memenangkan permainan jika berhasil memasukkan **bola 9** dengan tembakan sah.
+- Permainan ini lebih cepat dan menuntut **teknik kontrol bola** yang lebih tinggi, terutama dalam pergerakan posisi untuk tembakan berikutnya.
 
 Biliar diakui sebagai olahraga mental yang memadukan strategi, konsentrasi, 
 dan keahlian teknis. Dalam kompetisi, ini juga menjadi cabang olahraga resmi
