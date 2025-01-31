@@ -1,0 +1,46 @@
+@startuml 
+!define RECTANGLE class
+skinparam rectangle {
+    BackgroundColor #FFFFFF
+    BorderColor #000000
+}
+
+start
+:Identifikasi Tujuan Proyek;
+if (Tujuan Pengelolaan Komunitas?) then (yes)
+  :Strategi Konten Digital dan Event;
+  :Turnamen Komunitas;
+  :Kolaborasi dengan Brand;
+elseif (Tujuan Pengembangan Pemain?) then (yes)
+  :Pengembangan Program Pelatihan Atlet;
+  :Monitoring Perkembangan Atlet;
+endif
+
+if (Kelola Anggota?) then (yes)
+  :Lihat Daftar Anggota;
+  :Tambah, Edit, Hapus Anggota;
+endif
+
+if (Kelola Atlet?) then (yes)
+  :Tambah Atlet Baru;
+  :Edit Profil Atlet;
+  :Hapus Atlet;
+  :Lihat Daftar Atlet;
+endif
+
+if (Kelola Pelatih?) then (yes)
+  :Tambah Pelatih Baru;
+  :Edit Profil Pelatih;
+  :Hapus Pelatih;
+  :Lihat Daftar Pelatih;
+endif
+
+if (Kelola Latihan?) then (yes)
+  :Tambah Jadwal Latihan;
+  :Edit Jadwal Latihan;
+  :Hapus Jadwal Latihan;
+  :Lihat Daftar Latihan;
+endif
+
+stop
+@enduml

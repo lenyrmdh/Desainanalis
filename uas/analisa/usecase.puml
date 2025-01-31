@@ -1,0 +1,12 @@
+@startuml
+actor "Admin" as Admin
+
+usecase "Kelola Atlet (CRUD)" as UC1
+usecase "Kelola Pelatih (CRUD)" as UC2
+usecase "Kelola Jadwal Latihan (CRUD)" as UC3
+
+Admin --> UC1
+Admin --> UC2
+Admin --> UC3
+
+@enduml
