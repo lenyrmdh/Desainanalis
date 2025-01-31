@@ -63,13 +63,61 @@ Namun, meskipun memiliki basis penggemar yang besar, pengelolaan anggota komunit
 - **Pembuatan Sistem Manajemen Digital Berbasis Laravel**:
 
   - **Fitur Admin**:
+
     - Menambahkan data anggota komunitas (nama, peran, statistik, riwayat partisipasi).
     - Menambahkan data pelatih (nama, pengalaman, strategi pelatihan).
     - Mengatur jadwal latihan dan turnamen komunitas.
   - **Model dan Migrasi Database**:
-    - **Members Table**: Menyimpan informasi anggota komunitas (skill level, riwayat partisipasi).
-    - **Coaches Table**: Menyimpan data pelatih (pengalaman, kualifikasi).
-    - **Schedules Table**: Mengelola jadwal latihan dan turnamen.
+
+    1. **Members Table**: Menyimpan informasi anggota komunitas (skill level, riwayat partisipasi).
+    2. **Coaches Table**: Menyimpan data pelatih (pengalaman, kualifikasi).
+    3. **Schedules Table**: Mengelola jadwal latihan dan turnamen.
+
+    #### Struktur Tabel
+
+    ## Tabel Atlet (Athletes Table)
+
+    | Nama Kolom             | Tipe Data                                    | Keterangan               |
+    | ---------------------- | -------------------------------------------- | ------------------------ |
+    | id                     | bigint UNSIGNED (Primary Key)                | ID unik atlet            |
+    | name                   | varchar(255)                                 | Nama lengkap atlet       |
+    | age                    | int(11)                                      | Usia atlet               |
+    | gender                 | enum('male', 'female')                       | Jenis kelamin atlet      |
+    | skill_level            | enum('beginner', 'intermediate', 'advanced') | Tingkat keterampilan     |
+    | training_history       | text                                         | Riwayat pelatihan        |
+    | competition_evaluation | text                                         | Hasil evaluasi kompetisi |
+    | created_at             | timestamp                                    | Waktu pembuatan data     |
+    | updated_at             | timestamp                                    | Waktu pembaruan data     |
+
+    ---
+
+    ## Tabel Pelatih (Coaches Table)
+
+    | Nama Kolom    | Tipe Data                     | Keterangan               |
+    | ------------- | ----------------------------- | ------------------------ |
+    | id            | bigint UNSIGNED (Primary Key) | ID unik pelatih          |
+    | name          | varchar(255)                  | Nama lengkap pelatih     |
+    | qualification | text                          | Kualifikasi pelatih      |
+    | experience    | text                          | Pengalaman kerja pelatih |
+    | created_at    | timestamp                     | Waktu pembuatan data     |
+    | updated_at    | timestamp                     | Waktu pembaruan data     |
+
+    ---
+
+    ## Tabel Jadwal Latihan (Schedules Table)
+
+    | Nama Kolom     | Tipe Data                                              | Keterangan                                    |
+    | -------------- | ------------------------------------------------------ | --------------------------------------------- |
+    | id             | bigint UNSIGNED (Primary Key)                          | ID unik jadwal latihan                        |
+    | athlete_id     | bigint UNSIGNED                                        | ID atlet yang terkait dengan jadwal latihan   |
+    | coach_id       | bigint UNSIGNED                                        | ID pelatih yang terkait dengan jadwal latihan |
+    | session_date   | timestamp                                              | Waktu sesi latihan                            |
+    | facility       | varchar(255)                                           | Fasilitas yang digunakan untuk latihan        |
+    | training_type  | enum('routine', 'competition_preparation', 'recovery') | Jenis latihan yang dilakukan                  |
+    | match_duration | int(11)                                                | Durasi pertandingan dalam menit               |
+    | break_time     | int(11)                                                | Waktu istirahat dalam menit                   |
+    | created_at     | timestamp                                              | Waktu pembuatan data                          |
+    | updated_at     | timestamp                                              | Waktu pembaruan data                          |
 
 ### **3. Tantangan dalam Mempertahankan Loyalitas Anggota Komunitas**
 
